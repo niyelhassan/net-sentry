@@ -1,8 +1,10 @@
+![NetSentry Banner](banner.png)
+
 # NetSentry: Intelligent Network Security Scanner
 
 NetSentry is a Python-based security tool that enhances Nmap scanning with intelligent analysis and reporting capabilities. It helps security professionals identify potential vulnerabilities in network services and provides actionable recommendations.
 
-![NetSentry Banner](banner.png)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/niyelhassan/net-sentry)
 
 ## 🔍 Features
 
